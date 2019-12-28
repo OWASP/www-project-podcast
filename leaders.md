@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Mark Miller](mailto://mark.miller@owasp.org)
+* [Mark Miller](mailto:mark.miller@owasp.org)
