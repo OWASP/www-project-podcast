@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Matt Tesauro](mailto:matt.tesauro@owasp.org)
+* [Mark Miller](mailto:mark.miller@owasp.org)
