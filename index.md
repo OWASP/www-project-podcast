@@ -2,18 +2,17 @@
 
 layout: col-sidebar
 title: OWASP Podcast
-tags: podcast,audio,education
+tags: podcast audio education
 level: 3
 type: other
 pitch: The official place for audio-based learning about all things OWASP
 ---
 
-```
 ## The OWASP Podcast
 
 Proudly bringing you all things audio OWASP since 2008.
 
-## Episode list
+### Episode list
 
 The OWASP Podcast can be found on Soundcloud at [The OWASP Podcast Series](https://soundcloud.com/owasp-podcast).
 
@@ -37,4 +36,4 @@ Special thanks to Jim Manico who published the first OWASP Podcast episode on No
 
 The [original episodes](https://wiki.owasp.org/index.php/OWASP_Podcast#tab=Original_Series_with_Jim_Manico) of the OWASP Podcasts are available at the archived OWASP wiki.
 
-Note: The archived wiki site will be retired in the future.
+Note: The archived wiki site will be retired in the future so the above link may break in the future.
