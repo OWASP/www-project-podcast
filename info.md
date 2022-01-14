@@ -1,11 +1,6 @@
-<!--### Project Information
-* Project Level
-* Project Type
-* Version, etc
+## Project Information
+* Labs
+* Podcast (other)
 
-### Downloads or Social Links
-* [Download](#)
-* [Social Link](#)
-
-### Code Repository
-* [repo](#)-->
+### Listen
+* [Soundcloud Episodes](https://soundcloud.com/owasp-podcast)
