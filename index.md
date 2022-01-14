@@ -36,4 +36,4 @@ Special thanks to Jim Manico who published the first OWASP Podcast episode on No
 
 The [original episodes](https://wiki.owasp.org/index.php/OWASP_Podcast#tab=Original_Series_with_Jim_Manico) of the OWASP Podcasts are available at the archived OWASP wiki.
 
-Note: The archived wiki site will be retired in the future so the above link may break in the future.
+Note: The archived wiki site will be retired in the future so the above link may break without warning.
