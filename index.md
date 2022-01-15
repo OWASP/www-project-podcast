@@ -8,8 +8,6 @@ type: other
 pitch: The official place for audio-based learning about all things OWASP
 ---
 
-## The OWASP Podcast
-
 Proudly bringing you all things audio OWASP since 2008.
 
 ### Episode list
