@@ -20,7 +20,7 @@ Starting in 2022, the OWASP Podcast will be the combined efforts of 3 co-hosts w
 
 * [Mark Miller](mailto:mark.miller@owasp.org) - took over the podcast from Jim Manico in 2013.
 
-Mark Miller is having discussions with thought leaders and practionedrs who are working on the securing the future for coming generations.
+Mark Miller is having discussions with thought leaders and practitioners who are working on the securing the future for coming generations.
 
 * [Matt Tesauro](mailto:matt.tesauro@owasp.org) - filled in for Jim Manico in the early days and is back for more.
 
