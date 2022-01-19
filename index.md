@@ -16,9 +16,19 @@ The OWASP Podcast can be found on Soundcloud at [The OWASP Podcast Series](https
 
 ## Our Co-hosts
 
+Starting in 2022, the OWASP Podcast will be the combined efforts of 3 co-hosts with each producing episodes with a slightly different focus:
+
 * [Mark Miller](mailto:mark.miller@owasp.org) - took over the podcast from Jim Manico in 2013.
+
+Mark Miller is having discussions with thought leaders and practionedrs who are working on the securing the future for coming generations.
+
 * [Matt Tesauro](mailto:matt.tesauro@owasp.org) - filled in for Jim Manico in the early days and is back for more.
+
+Matt Tesauro is focusing on speaking to OWASP project leaders and other AppSec professionals to share knowledge learned in the AppSec and DevSecOps 'trenches'. Episodes are focused on helping listeners up their AppSec / DevSecOps game by sharing experiences, tools and techniques that others have found useful.
+
 * [Vandana Verma Sehgal](mailto:vandana.verma@owasp.org) - started a podcast focusing on OWASP internal news before merging with the project.
+
+Vandana Verma, Joubin Jabbari and Didar Gelici will continue to produce a conversational podcast covering interesting items of OWASP news, information and updates to help you keep current on chapters, projects, events and more.
 
 ## Previous Podcasts
 
