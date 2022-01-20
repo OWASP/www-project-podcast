@@ -30,9 +30,9 @@ Matt Tesauro is focusing on speaking to OWASP project leaders and other AppSec p
 
 Vandana Verma, Joubin Jabbari and Didar Gelici will continue to produce a conversational podcast covering interesting items of OWASP news, information and updates to help you keep current on chapters, projects, events and more.
 
-## Previous Podcasts prior to 2002
+### Previous Podcasts
 
-Some podcasts are hosted on [Sounder.fm](https://owasp.sounder.fm/)
+Some previous podcasts are hosted on [Sounder.fm](https://owasp.sounder.fm/)
 
 * 4 episides recorded by Joubin Jabbari, Didar Gelici, Vandana Verma
   * [Intro Episode](https://owasp.sounder.fm/episode/intro)
