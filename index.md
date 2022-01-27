@@ -12,7 +12,13 @@ Proudly bringing you all things audio OWASP since 2008.
 
 ### Episode list
 
-The OWASP Podcast can be found on Soundcloud at [The OWASP Podcast Series](https://soundcloud.com/owasp-podcast).
+The OWASP Podcast can be found on Soundcloud at [The OWASP Podcast Series](https://soundcloud.com/owasp-podcast). The most recent episodes include:
+* The InfoSec Color Wheel with Jasmine Henry
+* CYA - Cover Your Assets with Chris Roberts
+* OWASP Flagship Projects - Episode 02
+* OWASP Flagship Projects - Episode 01
+* The Cyber Defense Matrix Project with Sounil Yu
+* 2021 OWASP Top 10 with Andrew van der Stock
 
 ## Our Co-hosts
 
