@@ -5,7 +5,7 @@ title: OWASP Podcast
 tags: podcast audio education
 level: 3
 type: other
-pitch: The official place for audio-based learning about all things OWASP
+pitch: The official OWASP podcast for audio interviews focusing on OWASP projects, chapters and leaders, as well as industry cybersecurity experts and DevOps/DevSecOps champions.
 ---
 
 Proudly bringing you all things audio OWASP since 2008.
@@ -16,11 +16,11 @@ The OWASP Podcast can be found on Soundcloud at [The OWASP Podcast Series](https
 
 ## Our Co-hosts
 
-Starting in 2022, the OWASP Podcast will be the combined efforts of 3 co-hosts with each producing episodes with a slightly different focus:
+Starting in 2022, the OWASP Podcast will be the combined efforts of 3 co-hosts, each producing episodes with a slightly different focus:
 
-* [Mark Miller](mailto:mark.miller@owasp.org) - took over the podcast from Jim Manico in 2013.
+* [Mark Miller](mailto:mark.miller@owasp.org) - Executive Producer since 2013.
 
-Mark Miller is having discussions with thought leaders and practitioners who are working on the securing the future for coming generations.
+Mark Miller has been the Executive Producer of the OWASP Podcast Series since accepting the reins from Jim Manico in 2013. During his tenure, Mark has produced 160 broadcasts, with a combined total of our 500,000 downloads. For his episodes in 2022, Mark will continue to investigate cybersecurity and open source experts who are making the greatest impact on security within the technology industry.
 
 * [Matt Tesauro](mailto:matt.tesauro@owasp.org) - filled in for Jim Manico in the early days and is back for more.
 
