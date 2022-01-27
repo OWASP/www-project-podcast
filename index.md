@@ -20,7 +20,7 @@ Starting in 2022, the OWASP Podcast will be the combined efforts of 3 co-hosts, 
 
 * [Mark Miller](mailto:mark.miller@owasp.org) - Executive Producer since 2013.
 
-Mark Miller has been the Executive Producer of the OWASP Podcast Series since accepting the reins from Jim Manico in 2013. During his tenure, Mark has produced 160 broadcasts, with a combined total of our 500,000 downloads. For his episodes in 2022, Mark will continue to investigate cybersecurity and open source experts who are making the greatest impact on security within the technology industry.
+Mark Miller has been the Executive Producer of the OWASP Podcast Series since accepting the reins from Jim Manico in 2013. During his tenure, Mark has produced 160 broadcasts, with a combined total of over 500,000 downloads. For his episodes in 2022, Mark will continue to interview cybersecurity and open source experts who are making the greatest impact on security within the technology industry.
 
 * [Matt Tesauro](mailto:matt.tesauro@owasp.org) - filled in for Jim Manico in the early days and is back for more.
 
