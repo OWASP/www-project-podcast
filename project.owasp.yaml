@@ -1,0 +1,30 @@
+audience:
+  - builder
+community:
+  - name: project-podcast
+    platform: slack
+    url: https://owasp.slack.com/archives/C02U3MTA13K
+leaders:
+  - name: Mark Miller
+    email: mark.miller@owasp.org
+    github: SeniorStoryteller
+  - name: Matt Tesauro
+    email: matt.tesauro@owasp.org
+    github: mtesauro
+  - name: Vandana Verma Sehgal
+    email: vandana.verma@owasp.org
+    github: vermava
+level: 3
+name: OWASP Podcast
+pitch: The official OWASP podcast for audio interviews focusing on OWASP projects, chapters and leaders, as well as industry cybersecurity experts and DevOps/DevSecOps
+  champions.
+repositories:
+  - name: www-project-podcast
+    url: https://github.com/OWASP/www-project-podcast
+    description: OWASP Foundation Web Repository
+tags:
+  - podcast
+  - audio
+  - education
+type: documentation
+website: https://owasp.org/www-project-podcast
